@@ -171,7 +171,7 @@
 .hero {
     /* background: url(/img/bg.gif);
     background: linear-gradient(to right, rgb(0, 0, 0), #000000); */
-    background: url(https://jaysooon13th.github.io/bg.gif);
+    background: url(/bg.gif);
     background-size: cover;
     padding: 200px 0;
 }
